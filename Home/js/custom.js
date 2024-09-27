@@ -352,5 +352,4 @@
   $(window).on("load", function () {
     PATH.Gallery();
   });
-
 })(jQuery);
